@@ -1,0 +1,95 @@
+REGULAR EXPRESSION (REGEX) REFERENCE SHEET
+This file is a regular text file instead of a markdown file because of all the special characters it contains.
+
+
+WILDCARD *
+An asterisk accepts anything - any characters in any quantities in any order.
+
+CHARACTER CLASS []
+Square brackets surrounding a set of characters comprise a character class.
+gr[ae]y     Plain characters explicitly represent all possibilities at a specific point in a match.
+
+CHARACTER CLASS (INCLUDING RANGE)
+The hyphen indicates a range.
+[a-z]       Will match any alphabetic character.
+[0-9]       Will match any numeric digit.
+
+NEGATED CHARACTER CLASS
+[^abcd]     Will match everything that is NOT one of these characters.
+[^ ]        Will match any character that is not a space.
+[^]         Will match ANY character, including line breaks.
+
+NEGATED CHARACTER CLASS RANGE
+[^a-d]      Will match everything that is NOT in this range.
+
+ALTERNATION
+Learning|Regex  Will match "Learning" or "Regex" (which are expressions, not words).
+
+METACHARACTER   PURPOSE
+\w              [a-zA-Z0-9_]
+\s              whitespace characters
+\d              [0-9] digit characters
+\W              [^a-zA-Z0-9_] non-word characters
+\S              non-whitespace characters
+\D              [^0-9] non-digit characters
+.               any character
+\n              newline characters
+\t              tab characters
+\r              carriage-return character
+\\              simply a backslash, but it must be escaped
+
+\d\d\d-\d\d-\d\d\d\d    Will match any Social Security number.
+
+ANCHORS
+Allow matching the start of line and end of line.
+
+^Set        Will match "Set" but not "Reset" because ^ matches the beginning of the line.
+Script$     Will match "Script" but not "Scripts" because $ matches the end of the line.
+
+WORD BOUNDARIES
+Match positions before and after word characters, which creates a boundary.
+A word boundary is a location where there is a word character on one side and not on the other.
+Word boundaries allow identification of where words begin and end.
+
+\bcat\b     Will match "Cat" but not "Scatty" or "Scatter" because we explicitly set the word's boundaries.
+
+Only word characters are included. See \w above for a definition.
+The beginning and end of a string are boundaries if there is a word character there.
+Within the string, any transition between word and non-word characters is a boundary.
+
+QUANTIFIERS
+Metacharacters that allow you to repeat characters, metacharacters, and entire expressions.
+Place them directly after the chracter/metacharacter/expression to be repeated.
+
+QUANTIFIER      PURPOSE                                     EXAMPLE
+*               Match zero or more times                    e*
++               Match one or more times                     \d+
+?               Optional match zero or one times            Admins?
+{n}             Match exactly n times                       \d{4}
+{n,}            Match at least n times                      \d{3,}
+{n,m}           Match at least n times but no more than m   \w{1,3}
+
+SUBEXPRESSIONS
+Set apart within an expression by parentheses.
+Create capture groups. The matches from these capture groups are returned as variables for further matching.
+
+(202)-555-0148  Will match this exact phone number, creating a capture group numbered 1 that contains 202.
+                Note that capture group 0 is always the match of the whole expression, with 1 beginning the subexpressions.
+
+NON-CAPTURING SUBEXPRESSION
+Within parenthesis, the subexpression begins with a question mark and a colon.
+(?:\d{3})       This will capture exactly 3 digits, but will not create a variable from them.
+
+NAMED CAPTURE GROUPS
+Within parenthesis, begin with a question mark, then the name of the group between a less-than and greater-than sign.
+(?<word>[a-z]+)     Will capture one or more lowercase letters into a variable named 'word.'
+
+LOOKAROUNDS
+Lookahead and lookbehind, also known as lookarounds, are zero-length assertions that do not consume characters and instead assert whether a match is possible or not.
+If the assertion succeeds, the next capture (or capture group) happens. Otherwise, it is skipped.
+
+TYPE                    REGEX   MEANING                                             EXAMPLE
+Positive Lookahead      (?=)    Successful if regex can match to the right          /
+Negative Lookahead      (?!)    Successful if regex can NOT match to the right      /
+Positive Lookbehind     (?<=)   Successful if regex can match to the left           /
+Negative Lookbehind     (?<!)   Successful if regex can NOT match to the left       /
