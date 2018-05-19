@@ -21,7 +21,7 @@ Git allows us to "split" a repository's history by creating `branches`. A Git re
 
 When we use services like GitHub, we are working with a `remote` repository. The remote repository on GitHub allows our entire team to stay on the same page. We call this centralized repository `origin`. We can `clone` a repository from GitHub (copy it to our own machine) and `pull` changes from an existing repository (download updates made by our team members). We can also `push` our own updates to GitHub.
 
-GitHub allows us to create pull requests, which mean: "Pull my updated code into your master branch and make it official!" The `pull` command pulls updates from GitHub to our machine, but a pull request is a way of asking the repository owner to `merge` our updates into their code.
+GitHub allows us to create pull requests, which mean: "Pull my updated code into your master branch and make it official!" The `pull` command pulls updates from GitHub to our machine, but a pull request is a way of asking the repository owner to `merge` our updates into their code. Specifically, we will ask them to merge our feature branch into the master branch.
 
 ## Git Commands
 
