@@ -38,5 +38,10 @@ GitHub allows us to create pull requests, which mean: "Pull my updated code into
 |`git commit -m "<Commit Message>"`|Commits staged files to the repository history. You can put anything you want between the quotation marks - this is how you will know what you changed in your code, so make it relevant!|
 |`git clone <repository-url>`|Clones a remote Git repository into the current folder. It will create a new folder for the repository based on the name of the remote repository|
 |`git clone <repository-url> <new-folder-name>`|Clones a remote Git repository into the current folder. It will create a new folder for the repository based on the name you provided.|
-|`git push`|Pushes your updated code to GitHub.|
+|`git push`|Pushes your updated code to GitHub. Only code that you have committed will be pushed.|
 |`git pull`|Pulls other people's updates to the repository down from GitHub.|
+|`git checkout -b <new-branch-name>`|Creates a branch with the given name and checks it out. Your commits will now be saved to that branch instead of master. You should create a new branch to add a new feature.|
+|`git push -u origin <branch-name>`|"Publish" a branch from your computer to origin (GitHub). This is how you push a branch for the first time. After that `git push` works just fine.|
+|`git checkout <existing-branch-name>`|Checks out an existing branch. You can `git checkout master` to go back to the master branch. Your commits will now be saved to that branch.|
+|`git branch -d <branch-name>`|Deletes the named branch. Do this once you are done working on a new feature and the branch is merged. You can't delete a branch that is currently checked out.|
+

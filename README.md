@@ -1,12 +1,11 @@
 # Summer FlexCode 2018
 
-This repository contains useful files for Summer 2018 FlexCode participants:
+This repository contains useful information for the bootcamp.
 
-* Cheatsheets:
-	* [Git](./cheatsheets/git.md)
-	* [Bash ("Git Bash" on Windows)](https://wecancodeit.github.io/java-resources/bash/)
-
-## [Industry Terminology](https://wecancodeit.github.io/java-resources/industry-terminology/)
-Learning and speaking the language of programming is more than just the code...key terms and acronyms abound. Here were are archiving some of the most important of these terms.
-
-## [Guide to initializing git repositories and maintaining them](https://wecancodeit.github.io/java-resources/git/managing-your-repo/)
+## Cheatsheets:
+* [Industry Terminology (per week)](https://wecancodeit.github.io/java-resources/industry-terminology/)
+* [Git](./cheatsheets/git.md)
+* [Guide to initializing git repositories and maintaining them](https://wecancodeit.github.io/java-resources/git/managing-your-repo/)
+* [Bash ("Git Bash" on Windows)](https://wecancodeit.github.io/java-resources/bash/)
+* [Vim Commands](http://www.codeasite.com/index.php/linux-a-apache/96-vi-editor-commands)
+* [Working with BigDecimal in Java](https://www.javaworld.com/article/2075315/core-java/make-cents-with-bigdecimal.html)
