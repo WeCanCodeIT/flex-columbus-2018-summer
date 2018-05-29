@@ -10,7 +10,7 @@ This repository contains useful information for the bootcamp.
 |Module 3 Open (including project)|Monday, May 21|
 |Module 2 Project Due (Virtual Pet)<br>[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdcNmyNryIyyXijKZtkIxR4lBQFtkqcTgyxSSMefxMw4JSU6g/viewform)|Wednesday, May 23 @ 9am|
 |Module 4 Open (except project)|Monday, May 28|
-|Module 3 Project Due|Wednesday, May 30 @ 9am|
+|Module 3 Project Due (Virtual Pet Shelter)<br>[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScPSpd46Uqoq15S8__fZLX-ZYCh2pIOFeGD_IItTkcQvNAPtA/viewform)|Wednesday, May 30 @ 9am|
 |Code Jam 3|Saturday, June 2 - Sunday, June 3|
 |Module 4 Project Open|Sunday, June 3|
 |Module 5 Open|Monday, June 4|
