@@ -2,7 +2,7 @@
 
 This repository contains useful information for the bootcamp.
 
-## Upcoming Schedule
+## Important Dates
 
 |Happening|When|
 |---|---|
@@ -15,8 +15,12 @@ This repository contains useful information for the bootcamp.
 |Module 4 Project Open|Sunday, June 3|
 |Module 5 Open|Monday, June 4|
 |Module 4 Project Due|Wednesday, June 6 @ 9am|
+|No new module released.<br>(Continue work on Module 5)|Monday, June 11|
+|Module 5 Project Due<br>Module 6 Open|<u>**Monday**</u>, June 18 @ 9am|
+|Code Jam 4<br>Bring a complete draft of Module 6 project|Saturday, June 23 - Sunday, June 24|
 
-## Cheatsheets:
+
+## Cheatsheets
 * [Industry Terminology (per week)](https://wecancodeit.github.io/java-resources/industry-terminology/)
 * [Git](./cheatsheets/git.md)
 * [Guide to initializing git repositories and maintaining them](https://wecancodeit.github.io/java-resources/git/managing-your-repo/)
