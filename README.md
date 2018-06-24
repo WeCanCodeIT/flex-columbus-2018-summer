@@ -22,11 +22,11 @@ This repository contains useful information for the bootcamp.
 |Group Cohort Review|Tuesday, June 26 @ 7-9PM|
 |Module 6 Project Due (Professional Portfolio)|Wednesday, June 27 @ 9AM|
 |Module 8 Open (including project)|Monday, July 2|
-|Group Cohort Review|Tuesday, July 3|
+|Group Cohort Review|Tuesday, July 3 @ 7-9PM|
 |Independence Day - WCCI Closed|Wednesday, July 4|
 |Code Jam 5|Saturday, July 7 - Sunday, July 8|
-|Module 9 Open (with project)|Monday, July 9|
 |Module 7 Project Due (Reviews Site Full Stack)|Monday, July 9 @ 9AM|
+|Module 9 Open (including project)|Monday, July 9|
 |Group Cohort Review|Tuesday, July 10 @ 7-9PM|
 |Module 8 Project Due|Wednesday, July 11 @ 9AM|
 |Module 9 Project Due|Monday, July 16 @ 9AM|
