@@ -14,10 +14,23 @@ This repository contains useful information for the bootcamp.
 |Code Jam 3|Saturday, June 2 - Sunday, June 3|
 |Module 4 Project Open|Sunday, June 3|
 |Module 5 Open|Monday, June 4|
-|Module 4 Project Due|Wednesday, June 6 @ 9am|
+|Module 4 Project Due (Virtual Pets Amok)|Wednesday, June 6 @ 9am|
 |No new module released.<br>(Continue work on Module 5)|Monday, June 11|
-|Module 5 Project Due<br>Module 6 Open|<u>**Monday**</u>, June 18 @ 9am|
+|Module 5 Project Due (Reviews Site)<br>Module 6 Open|<u>**Monday**</u>, June 18 @ 9am|
 |Code Jam 4<br>Bring a complete draft of Module 6 project|Saturday, June 23 - Sunday, June 24|
+|Module 7 Open (including project)|Monday, June 25|
+|Group Cohort Review|Tuesday, June 26 @ 7-9PM|
+|Module 6 Project Due (Professional Portfolio)|Wednesday, June 27 @ 9AM|
+|Module 8 Open (including project)|Monday, July 2|
+|Group Cohort Review|Tuesday, July 3|
+|Independence Day - WCCI Closed|Wednesday, July 4|
+|Code Jam 5|Saturday, July 7 - Sunday, July 8|
+|Module 9 Open (with project)|Monday, July 9|
+|Module 7 Project Due (Reviews Site Full Stack)|Monday, July 9 @ 9AM|
+|Group Cohort Review|Tuesday, July 10 @ 7-9PM|
+|Module 8 Project Due|Wednesday, July 11 @ 9AM|
+|Module 9 Project Due|Monday, July 16 @ 9AM|
+
 
 
 ## Cheatsheets
