@@ -4,8 +4,7 @@ This repository contains useful information for the bootcamp.
 
 ## Important Dates
 
-|Happening|When|
-|---|---|
+<!--
 |Code Jam 2|Saturday, May 19 - Sunday, May 20|
 |Module 3 Open (including project)|Monday, May 21|
 |Module 2 Project Due (Virtual Pet)<br>[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdcNmyNryIyyXijKZtkIxR4lBQFtkqcTgyxSSMefxMw4JSU6g/viewform)|Wednesday, May 23 @ 9am|
@@ -24,12 +23,17 @@ This repository contains useful information for the bootcamp.
 |Module 8 Open (including project)|Monday, July 2|
 |Group Cohort Review|Tuesday, July 3 @ 7-9PM|
 |Independence Day - WCCI Closed|Wednesday, July 4|
+-->
+
+|Happening|When|
+|---|---|
 |Code Jam 5|Saturday, July 7 - Sunday, July 8|
 |Module 7 Project Due (Reviews Site Full Stack)|Monday, July 9 @ 9AM|
 |Module 9 Open (including project)|Monday, July 9|
 |Group Cohort Review|Tuesday, July 10 @ 7-9PM|
 |Module 8 Project Due|Wednesday, July 11 @ 9AM|
-|Module 9 Project Due|Monday, July 16 @ 9AM|
+|Module 9 Project Due|Wednesday, July 18 @ 9AM|
+|`Everything Else`|`See Calendar on FlexCode Site`|
 
 
 
@@ -41,3 +45,4 @@ This repository contains useful information for the bootcamp.
 * [Vim Commands](http://www.codeasite.com/index.php/linux-a-apache/96-vi-editor-commands)
 * [Working with BigDecimal in Java](https://www.javaworld.com/article/2075315/core-java/make-cents-with-bigdecimal.html)
 * [Add Eclipse Static Imports](./cheatsheets/eclipse-static-imports.md)
+* [JPA](./cheatsheets/jpa.md)
