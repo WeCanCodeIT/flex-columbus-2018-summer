@@ -32,6 +32,7 @@ This repository contains useful information for the bootcamp.
 |Module 9 Open (including project)|Monday, July 9|
 |Group Cohort Review|Tuesday, July 10 @ 7-9PM|
 |Module 8 Project Due|Wednesday, July 11 @ 9AM|
+|Group Cohort Review|Tuesday, July 17 @ 7-9PM|
 |Module 9 Project Due|Wednesday, July 18 @ 9AM|
 |`Everything Else`|`See Calendar on FlexCode Site`|
 
