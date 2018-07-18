@@ -46,3 +46,4 @@ This repository contains useful information for the bootcamp.
 * [Working with BigDecimal in Java](https://www.javaworld.com/article/2075315/core-java/make-cents-with-bigdecimal.html)
 * [Add Eclipse Static Imports](./cheatsheets/eclipse-static-imports.md)
 * [JPA](./cheatsheets/jpa.md)
+* [Spring MVC HTTP Request Lifecycle Diagram](./cheatsheets/spring-mvc-http-request-lifecycle-diagram.jpg)
