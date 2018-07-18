@@ -6,6 +6,8 @@ This repository contains useful information for the bootcamp.
 
 * [Spring MVC Forms - Part 1 (11:21 min)](https://screencast-o-matic.com/watch/cFiFqAFEje)
 * [Spring MVC Forms - Part 2 (6:57 min)](https://screencast-o-matic.com/watch/cFiFqgFEjQ)
+* [AJAX with Spring MVC - Part 1 (14:34 min)](https://screencast-o-matic.com/watch/cFiF33FEqA)
+* [AJAX with Spring MVC - Part 2 (11:10 min)](https://screencast-o-matic.com/watch/cFiF3tFEq8)
 
 ## Important Dates
 
