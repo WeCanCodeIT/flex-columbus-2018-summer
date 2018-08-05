@@ -41,14 +41,14 @@ This repository contains useful information for the bootcamp.
 
 |Happening|When|
 |---|---|
-|Code Jam 7 / Sprint 2 🏃|Saturday, August 4 - Sunday, August 5|
-|Final Projects<br>Sprint 3 🏃|Monday, August 6 - Friday, August 17|
-|Group Review Session 👩‍💻👨‍💻<br>Work on Final Projects |Tuesday, August 7 @ 7-9PM|
-|Deadline to send final Demo Day resumes to Marisa 📄|Friday, August 10|
-|Group Review Session 👩‍💻👨‍💻<br>Work on Final Projects|Tuesday, August 7 @ 7-9PM|
-|Code Jam 8 / Sprint 4 🏃<br>Mob final additions together, "ice the cake" 🎂|Saturday, August 18 - Sunday, August 19|
-|Final Week of FlexCode 😲<br>Practice your part of your group presentation<br>Choose what to wear, etc.|Monday, August 20 - Thursday, August 23|
-|Group Review Session 👩‍💻👨‍💻<br>Work on Presentations|Tuesday, August 21 @ 7-9PM|
+|Code Jam 7 / Sprint 2|Saturday, August 4 - Sunday, August 5|
+|Final Projects<br>Sprint 3|Monday, August 6 - Friday, August 17|
+|Group Review Session<br>Work on Final Projects |Tuesday, August 7 @ 7-9PM|
+|Deadline to send final Demo Day resumes to Marisa|Friday, August 10|
+|Group Review Session<br>Work on Final Projects|Tuesday, August 7 @ 7-9PM|
+|Code Jam 8 / Sprint 4<br>Mob final additions together, "ice the cake"|Saturday, August 18 - Sunday, August 19|
+|Final Week of FlexCode<br>Practice your part of your group presentation<br>Choose what to wear, etc.|Monday, August 20 - Thursday, August 23|
+|Group Review Session<br>Work on Presentations|Tuesday, August 21 @ 7-9PM|
 |Demo Day + Graduation 🎓🎉<br>Show off your applications<br>Attain certificate of software development!|Friday, August 24|
 |`Other Info`|`See Calendar on FlexCode Site`|
 
